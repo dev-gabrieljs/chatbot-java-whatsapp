@@ -1,0 +1,6 @@
+2024-08-17 12:12:50.442636-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM CLIENTE CATEGORIA [*]NOME PRODUTO"; SQL statement:
+SELECT * FROM CLIENTE CATEGORIA NOME PRODUTO [42000-224]
+2024-08-17 12:12:51.176859-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM CLIENTE CATEGORIA [*]NOME PRODUTO"; SQL statement:
+SELECT * FROM CLIENTE CATEGORIA NOME PRODUTO [42000-224]
